@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(23, 23, 23);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    margin-left: 25%;
+    margin-right: 15%;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    text-align: center;
+}
+
+h1,h2,h3,h4{
+    color: rgb(42, 223, 255); 
+}
+
+h2,h3,h4{
+    text-transform: uppercase;
+}
+a:focus, a:hover {
+    color: rgb(69, 255, 55);
+    transition: 0,5s;
+}
+
+a:visited {
+    color: rgb(134, 0, 186);
+}
+
+.nav {
+    position: sticky;
+    top: 0;
+    background-color: rgb(23, 23, 23);
+    border-radius: 5px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+a{
+    color:rgb(42, 223, 255);
+}
+
+nav{
+    margin: 3px 3px 3px 3px;
+}
+
+.git{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-left: 25%;
+}
+
+
+
+section.esq{
+    margin-right: 80%;
+    position: fixed;
+    text-transform: capitalize;
+    margin-top: 10%;
+}
+
+footer{
+    color: rgb(0, 184, 0);
+    margin-left: 50%;
+}
+
+section{
+    margin-top: 10px;
+}
+
